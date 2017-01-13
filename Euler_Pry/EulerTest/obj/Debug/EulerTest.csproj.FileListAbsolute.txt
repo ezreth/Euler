@@ -1,0 +1,7 @@
+C:\Users\Diego\documents\visual studio 2012\Projects\Euler\EulerTest\bin\Debug\EulerTest.dll
+C:\Users\Diego\documents\visual studio 2012\Projects\Euler\EulerTest\bin\Debug\EulerTest.pdb
+C:\Users\Diego\documents\visual studio 2012\Projects\Euler\EulerTest\obj\Debug\EulerTest.csprojResolveAssemblyReference.cache
+C:\Users\Diego\documents\visual studio 2012\Projects\Euler\EulerTest\obj\Debug\EulerTest.dll
+C:\Users\Diego\documents\visual studio 2012\Projects\Euler\EulerTest\obj\Debug\EulerTest.pdb
+C:\Users\Diego\documents\visual studio 2012\Projects\Euler\EulerTest\bin\Debug\EulerCalculo.dll
+C:\Users\Diego\documents\visual studio 2012\Projects\Euler\EulerTest\bin\Debug\EulerCalculo.pdb

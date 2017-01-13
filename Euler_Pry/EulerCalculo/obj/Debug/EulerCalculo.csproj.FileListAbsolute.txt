@@ -1,0 +1,5 @@
+c:\users\diego\documents\visual studio 2012\Projects\Euler\EulerCalculo\bin\Debug\EulerCalculo.dll
+c:\users\diego\documents\visual studio 2012\Projects\Euler\EulerCalculo\bin\Debug\EulerCalculo.pdb
+c:\users\diego\documents\visual studio 2012\Projects\Euler\EulerCalculo\obj\Debug\EulerCalculo.csprojResolveAssemblyReference.cache
+c:\users\diego\documents\visual studio 2012\Projects\Euler\EulerCalculo\obj\Debug\EulerCalculo.dll
+c:\users\diego\documents\visual studio 2012\Projects\Euler\EulerCalculo\obj\Debug\EulerCalculo.pdb
